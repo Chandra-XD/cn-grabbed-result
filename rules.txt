@@ -1,0 +1,17 @@
+_*Kebijakan Privasi, Syarat Ketentuan dan Peraturan Bot*_
+
+*Kebijakan Privasi*
+_1. Bot tidak akan menyebarkan nomor users._
+_2. Bot tidak akan menyimpan media yang dikirimkan oleh users._
+_3. Owner berhak melihat data riwayat chat users._
+_4. Owner dapat melihat riwayat chat, dan media yang dikirimkan users._
+
+*Peraturan Bot*
+_1. Users dilarang menelfon maupun video call nomor bot._
+_2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot._
+_3. Users diharap tidak melakukan spam dalam penggunaan bot._
+_4. Users dilarang menambahkan nomor bot secara illegal, untuk menambahkan silahkan hubungi owner._
+
+*Syarat Ketentuan Bot*
+_1. Bot *tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.*_
+_2. Owner akan memberikan hukuman: block atau ban terhadap users yang melanggar peraturan._
