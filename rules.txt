@@ -19,7 +19,7 @@ _2. Owner akan memberikan hukuman: block atau ban terhadap users yang melanggar 
 
 *Note:*
 _1. Jika ada yang menjual/beli/sewa bot atas nomor ini, harap segera hubungi owner!_
-_2. Jika ada bug atau error pada fitur bot segera hubungi owner._
+_2. Jika ada bug atau error pada fitur bot, saya mohon untuk lapor kepada owner._
 _2. Jika ingin donasi bisa langsung aja ya social payment Dana_
 _3. Ketik .sewa jika ingin sewabot_
 
